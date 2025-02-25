@@ -1,0 +1,74 @@
+body{
+    background-color: rgb(139, 26, 26);
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0%;
+}
+
+#header{
+    background-color: rgb(23, 23, 23);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#icon{
+    width: 92px;
+    height: auto;
+    padding: 1%;
+}
+
+#footer{
+    background-color: rgb(23, 23, 23);
+    padding: 20px;
+}
+
+#main{
+    padding: 10px;
+}
+
+#hh{
+    margin-left: 15px;
+}
+
+#viloes{
+    margin-left: 15px;
+}
+
+hr {
+    background-color: #8a3939; 
+    height: 5px; 
+    border: 0;
+}
+
+#fim{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+.photo{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+.button{
+    background-color: #520c0c;
+    color: antiquewhite;
+    cursor: pointer
+}
+
+#buttons{
+    background-color: rgb(23, 23, 23);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.flagras{
+    display:flex;
+    flex-direction: column;
+}
