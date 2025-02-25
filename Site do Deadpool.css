@@ -1,5 +1,6 @@
 body{
-    background-color: rgb(139, 26, 26);
+    background: rgb(66,0,0);
+    background: linear-gradient(0deg, rgba(66,0,0,1) 0%, rgba(105,0,0,1) 50%, rgba(179,0,17,1) 100%);
     color: rgb(255, 255, 255);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
@@ -62,7 +63,7 @@ hr {
 }
 
 #buttons{
-    background-color: rgb(23, 23, 23);
+    background-color: rgb(24, 24, 23);
     display: flex;
     align-items: center;
     justify-content: center;
