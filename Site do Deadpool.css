@@ -56,7 +56,7 @@ hr {
     justify-content: center; 
 }
 
-.button{
+button{
     background-color: #520c0c;
     color: antiquewhite;
     cursor: pointer
